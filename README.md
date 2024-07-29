@@ -1,7 +1,7 @@
 # Cognizant Digital Nurture 3.0 
 
 ## JavaFSE Deep Skilling Assessments 
-This repository consists of assessments for the JavaFSE Deep Skilling track of the Cognizant Digital Nurture 3.0 program. The Program duration is of 5 weeks.
+This repository consists of assessments for the JavaFSE Deep Skilling track of the Cognizant Digital Nurture 3.0 program.
 * WEEK 1
     - (Module 1 - Design Patterns and Principles)
     - (Module 2 - Data Structures and Algorithms)
@@ -14,6 +14,8 @@ This repository consists of assessments for the JavaFSE Deep Skilling track of t
     - (Module 6 - Spring REST using Spring Boot 3)
 * WEEK 5
     - (Module 6 - Spring REST using Spring Boot 3)
+ 
+
  
 
 
