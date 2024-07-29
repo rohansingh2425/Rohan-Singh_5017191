@@ -8,6 +8,6 @@ This repository contains a comprehensive collection of assessments for the JavaF
 * WEEK 4 (Module 6 - Spring REST using Spring Boot 3)
 * WEEK 5 (Module 6 - Spring REST using Spring Boot 3)
 
-Hope this finds you well !
+
 
  
