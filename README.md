@@ -20,8 +20,7 @@ This repository consists of assessments for the JavaFSE Deep Skilling track of t
 
 Documents for our references:
 * [Handbook](https://github.com/rohansingh2425/Rohan-Singh_5017191/blob/main/Resources/COGNIZANT%20DN3.0-Deepskilling-Handbook-Java-FSE.pdf)
-* FAQ
-  
+* [FAQ](https://github.com/rohansingh2425/Rohan-Singh_5017191/blob/main/Resources/COGNIZANT%20FAQ%20-%20DN%203.0.pdf)  
 
 
 
