@@ -16,7 +16,12 @@ This repository consists of assessments for the JavaFSE Deep Skilling track of t
     - (Module 6 - Spring REST using Spring Boot 3)
  
 
- 
+ # Resources
+
+Documents for our references:
+* Handbook
+* FAQ
+  
 
 
 
