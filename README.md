@@ -6,8 +6,8 @@ Cognizant's Digital Nurture 3.0 is a program designed to train and upskill profe
 ## Java FSE Deep Skilling Assessments 
 This repository consists of assessments for the JavaFSE Deep Skilling track of the Cognizant Digital Nurture 3.0 program.
 * WEEK 1
-    -  Design Patterns and Principles)
-    -  Data Structures and Algorithms)
+    -  Design Patterns and Principles
+    -  Data Structures and Algorithms
 * WEEK 2
     - Spring Core and Maven)
     - PL/SQL Programming)
