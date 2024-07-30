@@ -139,7 +139,6 @@ public class TaskManagementSystem {
 }
 
 /*
-
 Linked List Operations Time Complexities:
 
 Add: O(1) - Constant time, as you only need to update pointers.   
@@ -152,6 +151,4 @@ Advantages of Linked Lists over Arrays for Dynamic Data:
 - Linked lists can grow or shrink as needed without the overhead of resizing the entire data structure like arrays.This is particularly efficient when the data size is unpredictable.
 - Inserting or deleting elements in a linked list is generally faster than in an array, especially when the position is not at the end.This is because you only need to update pointers, avoiding the costly shifting of elements in an array.
 - Linked lists tend to use memory more efficiently than arrays, as they don't need to allocate a contiguous block of memory upfront.This is especially beneficial when dealing with large datasets.
-
-
  */
