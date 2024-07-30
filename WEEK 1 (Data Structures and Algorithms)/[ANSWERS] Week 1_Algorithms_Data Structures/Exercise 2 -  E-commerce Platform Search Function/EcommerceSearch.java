@@ -29,7 +29,7 @@ public class EcommerceSearch {
             System.out.println("Enter product details for product " + (i + 1) + ":");
             System.out.print("Product ID: ");
             int productId = scanner.nextInt();
-            scanner.nextLine(); // Consume newline
+            scanner.nextLine(); 
             System.out.print("Product Name: ");
             String productName = scanner.nextLine();
             System.out.print("Category: ");
@@ -40,7 +40,7 @@ public class EcommerceSearch {
             sortedProducts[i] = new Product(productId, productName, category);
         }
 
-        // Sort the sortedProducts array based on productId
+        
         Arrays.sort(sortedProducts, (p1, p2) -> Integer.compare(p1.productId, p2.productId));
 
         System.out.print("Enter the product ID to search: ");
