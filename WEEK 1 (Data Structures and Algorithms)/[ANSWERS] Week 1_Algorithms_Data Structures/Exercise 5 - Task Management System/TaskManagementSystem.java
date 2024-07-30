@@ -70,7 +70,7 @@ class LinkedList {
     public void deleteTask(int taskId) {
         Node temp = head, prev = null;
         if (temp != null && temp.data.taskId == taskId) {
-            head = temp.next; // If head is the node to be deleted
+            head = temp.next; 
             return;
         }
         while (temp != null && temp.data.taskId != taskId) {
@@ -108,7 +108,7 @@ public class TaskManagementSystem {
                     System.out.print("Enter task ID: ");   
  
                     int taskId = scanner.nextInt();
-                    scanner.nextLine(); // Consume newline
+                    scanner.nextLine();
                     System.out.print("Enter task name: ");
                     String taskName = scanner.nextLine();
                     System.out.print("Enter task status: ");
