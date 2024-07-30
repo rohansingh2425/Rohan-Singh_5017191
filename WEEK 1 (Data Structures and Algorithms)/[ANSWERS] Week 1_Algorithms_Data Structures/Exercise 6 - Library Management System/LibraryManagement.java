@@ -23,13 +23,13 @@ public class LibraryManagement {
 
         System.out.print("Enter the number of books: ");
         int n = scanner.nextInt();
-        scanner.nextLine(); // Consume newline
+        scanner.nextLine();
 
         for (int i = 0; i < n; i++) {
             System.out.println("Enter book " + (i + 1) + " details:");
             System.out.print("Book ID: ");
             int bookId = scanner.nextInt();
-            scanner.nextLine(); // Consume newline
+            scanner.nextLine(); 
             System.out.print("Title: ");
             String title = scanner.nextLine();
             System.out.print("Author: ");
@@ -116,5 +116,4 @@ Binary Search is used for:
 
 - Large, sorted datasets.
 - Binary search offers significantly better performance for large datasets. The logarithmic time complexity makes it extremely efficient for finding elements in sorted data.
-
  */
