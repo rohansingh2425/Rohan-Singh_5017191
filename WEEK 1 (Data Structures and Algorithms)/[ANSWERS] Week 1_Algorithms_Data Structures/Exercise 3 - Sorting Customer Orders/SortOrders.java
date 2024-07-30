@@ -31,7 +31,7 @@ public class SortOrders {
             System.out.println("Enter details for order " + (i + 1) + ":");
             System.out.print("Order ID: ");
             int orderId = scanner.nextInt();
-            scanner.nextLine(); // Consume newline
+            scanner.nextLine(); 
             System.out.print("Customer Name: ");
             String customerName = scanner.nextLine();
             System.out.print("Total Price: ");
@@ -59,7 +59,7 @@ public class SortOrders {
         for (int i = 0; i < n - 1; i++) {
             for (int j = 0; j < n - i - 1; j++) {
                 if (orders[j].compareTo(orders[j + 1]) > 0) {
-                    // Swap orders[j] and orders[j + 1]
+                   
                     Order temp = orders[j];
                     orders[j] = orders[j + 1];
                     orders[j + 1] = temp;
@@ -82,7 +82,7 @@ public class SortOrders {
         for (int j = low; j < high; j++) {
             if (orders[j].compareTo(pivot) <= 0) {
                 i++;
-                // Swap orders[i] and orders[j]
+                
                 Order temp = orders[i];
                 orders[i] = orders[j];
                 orders[j] = temp;
@@ -122,5 +122,4 @@ Why Quick Sort is Preferred over BUbble Sort:
 - Quick Sort consistently delivers O(n log n) performance in most practical scenarios, making it significantly faster than Bubble Sort's O(n^2) average and worst-case time complexity.
 - Quick Sort's divide-and-conquer approach often leads to better cache locality, improving performance.
 - Quick Sort is the algorithm of choice for most sorting tasks due to its superior average and best-case performance.
-
  */
