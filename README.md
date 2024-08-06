@@ -13,7 +13,7 @@ This repository consists of assessments for the JavaFSE Deep Skilling track of t
 * WEEK 2
   
     - Spring Core and Maven
-    - PL/SQL Programming
+    - [PL/SQL Programming](https://github.com/rohansingh2425/Rohan-Singh_5017191/tree/main/WEEK%202%20(PL-SQL%20Programming)/%5BANSWERS%5D%20Week%202_PL-SQL)
       
 * WEEK 3
   
