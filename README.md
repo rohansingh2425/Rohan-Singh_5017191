@@ -21,7 +21,7 @@ This repository consists of assessments for the JavaFSE Deep Skilling track of t
       
 * WEEK 4
   
-    - Spring REST using Spring Boot 3
+    - [Spring REST using Spring Boot 3](https://github.com/rohansingh2425/Rohan-Singh_5017191/tree/main/WEEK%204%20(Spring%20REST%20using%20Spring%20Boot%203)/%5BANSWERS%5D%20Week%204_Spring%20REST)
       
 * WEEK 5
   
